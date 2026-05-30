@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Anuradha Biradar👋<br><br>🎓 CSE Graduate from Guru Nanak Dev Engineering College, Bidar<br>💻 Full Stack Developer<br>🌱 Currently learning Advanced Next.js, System Design, and Cloud Technologies<br>🚀 Building web applications and AI-powered projects
+Hi, I'm Anuradha Biradar👋<br><br>🎓 CSE Graduate from Guru Nanak Dev Engineering College, Bidar(2026)<br>💻 Full Stack Developer<br>🌱 Currently learning Advanced Next.js, System Design, and Cloud Technologies<br>🚀 Building web applications and AI-powered projects
 
 
 # 💻 Tech Stack:
